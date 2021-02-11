@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1613085330126" clover="3.2.0">
+  <project timestamp="1613085330126" name="All files">
+    <metrics statements="20" coveredstatements="19" conditionals="19" coveredconditionals="18" methods="1" coveredmethods="1" elements="40" coveredelements="38" complexity="0" loc="20" ncloc="20" packages="1" files="1" classes="1"/>
+    <file name="coin-counter.js" path="C:\Users\irons\Desktop\CoinCounter\src\coin-counter.js">
+      <metrics statements="20" coveredstatements="19" conditionals="19" coveredconditionals="18" methods="1" coveredmethods="1"/>
+      <line num="4" count="13" type="cond" truecount="2" falsecount="0"/>
+      <line num="5" count="6" type="cond" truecount="2" falsecount="0"/>
+      <line num="6" count="6" type="stmt"/>
+      <line num="7" count="6" type="stmt"/>
+      <line num="9" count="7" type="cond" truecount="2" falsecount="0"/>
+      <line num="10" count="1" type="cond" truecount="2" falsecount="0"/>
+      <line num="11" count="1" type="stmt"/>
+      <line num="12" count="1" type="stmt"/>
+      <line num="14" count="6" type="cond" truecount="2" falsecount="0"/>
+      <line num="15" count="1" type="cond" truecount="2" falsecount="0"/>
+      <line num="16" count="1" type="stmt"/>
+      <line num="17" count="1" type="stmt"/>
+      <line num="19" count="5" type="cond" truecount="2" falsecount="0"/>
+      <line num="20" count="4" type="cond" truecount="2" falsecount="0"/>
+      <line num="21" count="4" type="stmt"/>
+      <line num="22" count="4" type="stmt"/>
+      <line num="24" count="1" type="cond" truecount="1" falsecount="1"/>
+      <line num="25" count="1" type="stmt"/>
+      <line num="26" count="1" type="stmt"/>
+      <line num="28" count="0" type="stmt"/>
+    </file>
+  </project>
+</coverage>
